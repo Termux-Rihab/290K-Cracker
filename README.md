@@ -14,7 +14,7 @@ pkg install git
 
 pip2 install uncompyle6
 
-git clone 
+git clone https://github.com/Termux-Rihab/290K-Cracker
 
 cd 
 
