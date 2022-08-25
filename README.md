@@ -77,11 +77,11 @@ $ python Old.py
 <a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook"> DOWNLOAD <a/> <br>
 
 
-#### MY SOCIAL MEDIA
+ MY SOCIAL MEDIA
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Termux-Rihab) <br>
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/RihabRxI) <br>
-[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/RihabRxI) <br>
+
 
 
 <h2> THANKS FOR VISIT ✘✘ <h2\>
