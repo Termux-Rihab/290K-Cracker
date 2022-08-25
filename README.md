@@ -68,7 +68,7 @@ $ python Old.py
 #### :closed_lock_with_key: KEY PASSWORD ⁉️
 
 #### JOIN TELEGRAM CHANNEL <br>
-####[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/mrerror69)
+####[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/mrerrorTERMUX6Rihab)
 
 <br>
 
