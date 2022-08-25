@@ -7,7 +7,7 @@
 
 <a href="Not Use" target="_blank"><img src="https://github.com/Termux-Rihab/290K-Cracker/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
 <a href="https://https://www.facebook.com/102411652601695"><img src="https://github.com/Termux-Rihab/290K-Cracker/blob/main/IMAGE/telegram.png" alt="alt text" width="25" height="25"></a>
-<a href="https://www.facebook.com/RihabRxI" target="_blank"><img src="https://github.com/Termux-Rihab/290K-Cracker/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/Gorib Vai Gang"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
+<a href="https://www.facebook.com/RihabRxI" target="_blank"><img src="https://github.com/Termux-Rihab/290K-Cracker/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/Gorib Vai Gang"><img src="https://github.com/Termux-Rihab/Termux-Rihab/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
   
 ____Programming And Memes____
