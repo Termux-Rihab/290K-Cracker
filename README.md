@@ -16,6 +16,8 @@ pip2 install uncompyle6
 
 git clone https://github.com/Termux-Rihab/290K-Cracker
 
-cd 
+cd 290K-Cracker
 
-python2 .py
+python Old.py
+
+
